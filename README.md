@@ -14,6 +14,11 @@ Placeholder support for CKEditor angular directive.
 bower install angular-ckeditor-placeholder
 ```
 
+### Using NPM
+```sh
+npm install angular-ckeditor-placeholder
+```
+
 Note : obviously this plugin expects the presence of angular-ckeditor https://github.com/lemonde/angular-ckeditor
 
 ## Usage
