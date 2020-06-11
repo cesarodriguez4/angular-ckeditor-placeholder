@@ -1,0 +1,22 @@
+{
+  "name": "angular-ckeditor-placeholder",
+  "version": "0.1.3",
+  "description": "Placeholder support for CKEditor angular directive.",
+  "main": "angular-ckeditor-placeholder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesarodriguez4/angular-ckeditor-placeholder.git"
+  },
+  "keywords": [
+    "ckeditor-placeholder"
+  ],
+  "author": "Cesar Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cesarodriguez4/angular-ckeditor-placeholder/issues"
+  },
+  "homepage": "https://github.com/cesarodriguez4/angular-ckeditor-placeholder#readme"
+}
